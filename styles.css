@@ -5,3 +5,6 @@ h1.header{
     font-size:300%;
     color:blueviolet;
 }
+.fold{
+    float:left;
+}
